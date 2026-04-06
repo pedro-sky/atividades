@@ -6,7 +6,7 @@
 
 Este repositório reúne **20 exercícios práticos de lógica de programação resolvidos**, inspirados em desafios reais aplicados em **testes técnicos para vagas de desenvolvedor(a) júnior**.
 
-O objetivo é desenvolver raciocínio lógico, clareza de código e a capacidade de criar soluções simples, corretas e funcionais utilizando **JAVA**.
+O objetivo é desenvolver raciocínio lógico, clareza de código e a capacidade de criar soluções simples, corretas e funcionais utilizando **JAVA** e **JAVASCRIPT**.
 
 Essas são as minhas resoluções pessoais, o link para o repositório original com a resolução do autor se encontra abaixo 
 https://github.com/conteudoGeneration/Atividades-preparatorias-para-teste-tecnicos-de-processos-seletivos-em-desenvolvimento-de-software/tree/main
